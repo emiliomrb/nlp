@@ -1,0 +1,7 @@
+Todo
+
+
+Talk about what you can do with the trained embeddings (e.g., compute P(edge), k-nearest-neighbors, or training downstream 
+classifiers on the features). Also, it would be nice to have a little script where one could manually feed it an edge and it
+could spit out a score.
+Or some nearest neighbor tool.
